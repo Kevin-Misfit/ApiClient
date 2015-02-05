@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="CustomLoadingProgress">
+        <item name="android:maxWidth">@dimen/ds92</item>
+        <item name="android:maxHeight">@dimen/ds92</item>
+        <item name="android:indeterminateDrawable">@anim/custom_progress</item>
+        <item name="android:minWidth">@dimen/ds92</item>
+        <item name="android:minHeight">@dimen/ds92</item>
+    </style>
+
+    <style name="loading_dialog" parent="@android:style/Theme.Holo.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="numeric_editetext_padding">16.0dip</dimen>
+    <dimen name="numeric_editetext_padding_half">8.0dip</dimen>
+    
+    <dimen name="ds220">110.0dip</dimen>
+    <dimen name="ds92">41.0dip</dimen>
+    <dimen name="ds64">32.0dip</dimen>
+    <dimen name="ds40">20.0dip</dimen>
+    <dimen name="ds32">16.0dip</dimen>
+
+    <dimen name="fontsize32">16.0dip</dimen>
+    <dimen name="ds30">15.0dip</dimen>
+</resources>

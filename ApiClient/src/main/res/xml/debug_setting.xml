@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 调试开关/发布开关 -->
+<debug>
+
+    <turnOn>
+ true
+    </turnOn>
+
+</debug>

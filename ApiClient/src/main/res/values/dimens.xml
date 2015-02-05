@@ -1,0 +1,25 @@
+<resources>
+
+    <dimen name="txt_size_12sp">12.0sp</dimen>
+    <dimen name="txt_size_14sp">14.0sp</dimen>
+    <dimen name="txt_size_16sp">16.0sp</dimen>
+    <dimen name="txt_size_18sp">18.0sp</dimen>
+    <dimen name="txt_size_20sp">20.0sp</dimen>
+    <dimen name="txt_size_22sp">22.0sp</dimen>
+    <dimen name="txt_size_24sp">24.0sp</dimen>
+    <dimen name="txt_size_26sp">26.0sp</dimen>
+    <dimen name="txt_size_28sp">28.0sp</dimen>
+    <dimen name="txt_size_30sp">30.0sp</dimen>
+    <dimen name="txt_size_32sp">32.0sp</dimen>
+    <dimen name="txt_size_34sp">34.0sp</dimen>
+    
+    <!-- slidingmenu dimens -->
+    <dimen name="slidingmenu_offset">60dp</dimen>
+    <dimen name="shadow_width">25dp</dimen>
+    
+    <dimen name="fab_size_normal">56dp</dimen>
+    <dimen name="fab_size_mini">40dp</dimen>
+    <dimen name="fab_shadow_size">8dp</dimen>
+    <dimen name="fab_mini_shadow_size">6dp</dimen>
+    
+</resources>

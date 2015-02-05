@@ -1,0 +1,11 @@
+<resources>
+    <string name="bad_network">网络不给力啊!</string>
+    <string name="network_timeout">网络请求超时!</string>
+    <string name="network_unavaliable">当前网络不可用，请检查你的网络设置</string>
+    <string name="network_avaliable">网络连接已恢复</string>
+    <string name="network_timeout_req_again">网络请求超时!请重试</string>
+    <string name="token_expire_and_reget">token已失效，正在重新获取</string>
+    <string name="token_reget_success_and_do_your_stuff_again">token获取成功，请再次操作</string>
+
+    <string name="click_again_to_exit_tip">再按一次退出</string>
+</resources>
